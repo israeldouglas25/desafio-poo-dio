@@ -31,7 +31,7 @@ public class Mentoria extends Conteudo {
         return "Curso{" +
                 "titulo='" + getTitulo() + '\'' +
                 ", descricao='" + getDescricao() + '\'' +
-                ", cargaHoraria=" + data +
+                ", data=" + data +
                 '}';
     }
 }
